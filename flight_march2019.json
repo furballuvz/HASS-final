@@ -1,0 +1,1458 @@
+[
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "8 AM",
+   "Day": "Tue",
+   "Arrivals": 19,
+   "Departures": 37
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "9 AM",
+   "Day": "Tue",
+   "Arrivals": 16,
+   "Departures": 29
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "10 AM",
+   "Day": "Tue",
+   "Arrivals": 13,
+   "Departures": 36
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "11 AM",
+   "Day": "Tue",
+   "Arrivals": 31,
+   "Departures": 17
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "12 PM",
+   "Day": "Tue",
+   "Arrivals": 29,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "1 PM",
+   "Day": "Tue",
+   "Arrivals": 33,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "2 PM",
+   "Day": "Tue",
+   "Arrivals": 34,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "3 PM",
+   "Day": "Tue",
+   "Arrivals": 28,
+   "Departures": 30
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "4 PM",
+   "Day": "Tue",
+   "Arrivals": 26,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "5 PM",
+   "Day": "Tue",
+   "Arrivals": 35,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "6 PM",
+   "Day": "Tue",
+   "Arrivals": 31,
+   "Departures": 22
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "7 PM",
+   "Day": "Tue",
+   "Arrivals": 30,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "8 PM",
+   "Day": "Tue",
+   "Arrivals": 25,
+   "Departures": 35
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "9 PM",
+   "Day": "Tue",
+   "Arrivals": 30,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "10 PM",
+   "Day": "Tue",
+   "Arrivals": 35,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 5 2019",
+   "Hours": "11 PM",
+   "Day": "Tue",
+   "Arrivals": 26,
+   "Departures": 14
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "8 AM",
+   "Day": "Wed",
+   "Arrivals": 14,
+   "Departures": 39
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "9 AM",
+   "Day": "Wed",
+   "Arrivals": 17,
+   "Departures": 36
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "10 AM",
+   "Day": "Wed",
+   "Arrivals": 15,
+   "Departures": 34
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "11 AM",
+   "Day": "Wed",
+   "Arrivals": 27,
+   "Departures": 17
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "12 PM",
+   "Day": "Wed",
+   "Arrivals": 28,
+   "Departures": 19
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "1 PM",
+   "Day": "Wed",
+   "Arrivals": 31,
+   "Departures": 29
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "2 PM",
+   "Day": "Wed",
+   "Arrivals": 35,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "3 PM",
+   "Day": "Wed",
+   "Arrivals": 22,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "4 PM",
+   "Day": "Wed",
+   "Arrivals": 33,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "5 PM",
+   "Day": "Wed",
+   "Arrivals": 35,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "6 PM",
+   "Day": "Wed",
+   "Arrivals": 44,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "7 PM",
+   "Day": "Wed",
+   "Arrivals": 35,
+   "Departures": 28
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "8 PM",
+   "Day": "Wed",
+   "Arrivals": 29,
+   "Departures": 37
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "9 PM",
+   "Day": "Wed",
+   "Arrivals": 28,
+   "Departures": 32
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "10 PM",
+   "Day": "Wed",
+   "Arrivals": 36,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 6 2019",
+   "Hours": "11 PM",
+   "Day": "Wed",
+   "Arrivals": 25,
+   "Departures": 13
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "8 AM",
+   "Day": "Thu",
+   "Arrivals": 19,
+   "Departures": 39
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "9 AM",
+   "Day": "Thu",
+   "Arrivals": 16,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "10 AM",
+   "Day": "Thu",
+   "Arrivals": 12,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "11 AM",
+   "Day": "Thu",
+   "Arrivals": 30,
+   "Departures": 18
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "12 PM",
+   "Day": "Thu",
+   "Arrivals": 28,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "1 PM",
+   "Day": "Thu",
+   "Arrivals": 30,
+   "Departures": 34
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "2 PM",
+   "Day": "Thu",
+   "Arrivals": 31,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "3 PM",
+   "Day": "Thu",
+   "Arrivals": 22,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "4 PM",
+   "Day": "Thu",
+   "Arrivals": 29,
+   "Departures": 29
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "5 PM",
+   "Day": "Thu",
+   "Arrivals": 41,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "6 PM",
+   "Day": "Thu",
+   "Arrivals": 40,
+   "Departures": 22
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "7 PM",
+   "Day": "Thu",
+   "Arrivals": 34,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "8 PM",
+   "Day": "Thu",
+   "Arrivals": 29,
+   "Departures": 39
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "9 PM",
+   "Day": "Thu",
+   "Arrivals": 24,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "10 PM",
+   "Day": "Thu",
+   "Arrivals": 34,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 7 2019",
+   "Hours": "11 PM",
+   "Day": "Thu",
+   "Arrivals": 23,
+   "Departures": 17
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "8 AM",
+   "Day": "Fri",
+   "Arrivals": 18,
+   "Departures": 41
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "9 AM",
+   "Day": "Fri",
+   "Arrivals": 16,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "10 AM",
+   "Day": "Fri",
+   "Arrivals": 21,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "11 AM",
+   "Day": "Fri",
+   "Arrivals": 32,
+   "Departures": 21
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "12 PM",
+   "Day": "Fri",
+   "Arrivals": 30,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "1 PM",
+   "Day": "Fri",
+   "Arrivals": 32,
+   "Departures": 32
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "2 PM",
+   "Day": "Fri",
+   "Arrivals": 34,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "3 PM",
+   "Day": "Fri",
+   "Arrivals": 26,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "4 PM",
+   "Day": "Fri",
+   "Arrivals": 35,
+   "Departures": 32
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "5 PM",
+   "Day": "Fri",
+   "Arrivals": 33,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "6 PM",
+   "Day": "Fri",
+   "Arrivals": 44,
+   "Departures": 32
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "7 PM",
+   "Day": "Fri",
+   "Arrivals": 35,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "8 PM",
+   "Day": "Fri",
+   "Arrivals": 26,
+   "Departures": 37
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "9 PM",
+   "Day": "Fri",
+   "Arrivals": 29,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "10 PM",
+   "Day": "Fri",
+   "Arrivals": 38,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 8 2019",
+   "Hours": "11 PM",
+   "Day": "Fri",
+   "Arrivals": 22,
+   "Departures": 18
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "8 AM",
+   "Day": "Sat",
+   "Arrivals": 15,
+   "Departures": 36
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "9 AM",
+   "Day": "Sat",
+   "Arrivals": 18,
+   "Departures": 34
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "10 AM",
+   "Day": "Sat",
+   "Arrivals": 17,
+   "Departures": 35
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "11 AM",
+   "Day": "Sat",
+   "Arrivals": 31,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "12 PM",
+   "Day": "Sat",
+   "Arrivals": 27,
+   "Departures": 21
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "1 PM",
+   "Day": "Sat",
+   "Arrivals": 26,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "2 PM",
+   "Day": "Sat",
+   "Arrivals": 35,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "3 PM",
+   "Day": "Sat",
+   "Arrivals": 24,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "4 PM",
+   "Day": "Sat",
+   "Arrivals": 31,
+   "Departures": 30
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "5 PM",
+   "Day": "Sat",
+   "Arrivals": 38,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "6 PM",
+   "Day": "Sat",
+   "Arrivals": 32,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "7 PM",
+   "Day": "Sat",
+   "Arrivals": 30,
+   "Departures": 22
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "8 PM",
+   "Day": "Sat",
+   "Arrivals": 25,
+   "Departures": 22
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "9 PM",
+   "Day": "Sat",
+   "Arrivals": 29,
+   "Departures": 22
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "10 PM",
+   "Day": "Sat",
+   "Arrivals": 20,
+   "Departures": 16
+ },
+ {
+   "Date": "Mar 9 2019",
+   "Hours": "11 PM",
+   "Day": "Sat",
+   "Arrivals": 16,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "8 AM",
+   "Day": "Sun",
+   "Arrivals": 17,
+   "Departures": 36
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "9 AM",
+   "Day": "Sun",
+   "Arrivals": 15,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "10 AM",
+   "Day": "Sun",
+   "Arrivals": 19,
+   "Departures": 35
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "11 AM",
+   "Day": "Sun",
+   "Arrivals": 30,
+   "Departures": 21
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "12 PM",
+   "Day": "Sun",
+   "Arrivals": 29,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "1 PM",
+   "Day": "Sun",
+   "Arrivals": 27,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "2 PM",
+   "Day": "Sun",
+   "Arrivals": 33,
+   "Departures": 28
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "3 PM",
+   "Day": "Sun",
+   "Arrivals": 29,
+   "Departures": 29
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "4 PM",
+   "Day": "Sun",
+   "Arrivals": 33,
+   "Departures": 35
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "5 PM",
+   "Day": "Sun",
+   "Arrivals": 36,
+   "Departures": 30
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "6 PM",
+   "Day": "Sun",
+   "Arrivals": 40,
+   "Departures": 28
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "7 PM",
+   "Day": "Sun",
+   "Arrivals": 33,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "8 PM",
+   "Day": "Sun",
+   "Arrivals": 32,
+   "Departures": 37
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "9 PM",
+   "Day": "Sun",
+   "Arrivals": 35,
+   "Departures": 24
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "10 PM",
+   "Day": "Sun",
+   "Arrivals": 39,
+   "Departures": 24
+ },
+ {
+   "Date": "Mar 10 2019",
+   "Hours": "11 PM",
+   "Day": "Sun",
+   "Arrivals": 24,
+   "Departures": 17
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "8 AM",
+   "Day": "Wed",
+   "Arrivals": 13,
+   "Departures": 41
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "9 AM",
+   "Day": "Wed",
+   "Arrivals": 17,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "10 AM",
+   "Day": "Wed",
+   "Arrivals": 14,
+   "Departures": 35
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "11 AM",
+   "Day": "Wed",
+   "Arrivals": 27,
+   "Departures": 16
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "12 PM",
+   "Day": "Wed",
+   "Arrivals": 32,
+   "Departures": 19
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "1 PM",
+   "Day": "Wed",
+   "Arrivals": 22,
+   "Departures": 29
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "2 PM",
+   "Day": "Wed",
+   "Arrivals": 33,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "3 PM",
+   "Day": "Wed",
+   "Arrivals": 25,
+   "Departures": 24
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "4 PM",
+   "Day": "Wed",
+   "Arrivals": 28,
+   "Departures": 30
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "5 PM",
+   "Day": "Wed",
+   "Arrivals": 32,
+   "Departures": 22
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "6 PM",
+   "Day": "Wed",
+   "Arrivals": 38,
+   "Departures": 24
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "7 PM",
+   "Day": "Wed",
+   "Arrivals": 31,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "8 PM",
+   "Day": "Wed",
+   "Arrivals": 25,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "9 PM",
+   "Day": "Wed",
+   "Arrivals": 23,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "10 PM",
+   "Day": "Wed",
+   "Arrivals": 33,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 13 2019",
+   "Hours": "11 PM",
+   "Day": "Wed",
+   "Arrivals": 22,
+   "Departures": 13
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "8 AM",
+   "Day": "Thu",
+   "Arrivals": 15,
+   "Departures": 38
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "9 AM",
+   "Day": "Thu",
+   "Arrivals": 16,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "10 AM",
+   "Day": "Thu",
+   "Arrivals": 12,
+   "Departures": 35
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "11 AM",
+   "Day": "Thu",
+   "Arrivals": 28,
+   "Departures": 21
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "12 PM",
+   "Day": "Thu",
+   "Arrivals": 29,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "1 PM",
+   "Day": "Thu",
+   "Arrivals": 30,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "2 PM",
+   "Day": "Thu",
+   "Arrivals": 32,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "3 PM",
+   "Day": "Thu",
+   "Arrivals": 24,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "4 PM",
+   "Day": "Thu",
+   "Arrivals": 28,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "5 PM",
+   "Day": "Thu",
+   "Arrivals": 35,
+   "Departures": 21
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "6 PM",
+   "Day": "Thu",
+   "Arrivals": 38,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "7 PM",
+   "Day": "Thu",
+   "Arrivals": 34,
+   "Departures": 24
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "8 PM",
+   "Day": "Thu",
+   "Arrivals": 29,
+   "Departures": 38
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "9 PM",
+   "Day": "Thu",
+   "Arrivals": 30,
+   "Departures": 22
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "10 PM",
+   "Day": "Thu",
+   "Arrivals": 33,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 14 2019",
+   "Hours": "11 PM",
+   "Day": "Thu",
+   "Arrivals": 21,
+   "Departures": 18
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "8 AM",
+   "Day": "Fri",
+   "Arrivals": 17,
+   "Departures": 40
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "9 AM",
+   "Day": "Fri",
+   "Arrivals": 13,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "10 AM",
+   "Day": "Fri",
+   "Arrivals": 17,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "11 AM",
+   "Day": "Fri",
+   "Arrivals": 28,
+   "Departures": 17
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "12 PM",
+   "Day": "Fri",
+   "Arrivals": 29,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "1 PM",
+   "Day": "Fri",
+   "Arrivals": 29,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "2 PM",
+   "Day": "Fri",
+   "Arrivals": 35,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "3 PM",
+   "Day": "Fri",
+   "Arrivals": 29,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "4 PM",
+   "Day": "Fri",
+   "Arrivals": 32,
+   "Departures": 30
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "5 PM",
+   "Day": "Fri",
+   "Arrivals": 36,
+   "Departures": 28
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "6 PM",
+   "Day": "Fri",
+   "Arrivals": 40,
+   "Departures": 29
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "7 PM",
+   "Day": "Fri",
+   "Arrivals": 34,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "8 PM",
+   "Day": "Fri",
+   "Arrivals": 27,
+   "Departures": 37
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "9 PM",
+   "Day": "Fri",
+   "Arrivals": 29,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "10 PM",
+   "Day": "Fri",
+   "Arrivals": 37,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 15 2019",
+   "Hours": "11 PM",
+   "Day": "Fri",
+   "Arrivals": 22,
+   "Departures": 18
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "8 AM",
+   "Day": "Sat",
+   "Arrivals": 16,
+   "Departures": 37
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "9 AM",
+   "Day": "Sat",
+   "Arrivals": 16,
+   "Departures": 33
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "10 AM",
+   "Day": "Sat",
+   "Arrivals": 21,
+   "Departures": 36
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "11 AM",
+   "Day": "Sat",
+   "Arrivals": 28,
+   "Departures": 17
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "12 PM",
+   "Day": "Sat",
+   "Arrivals": 28,
+   "Departures": 21
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "1 PM",
+   "Day": "Sat",
+   "Arrivals": 25,
+   "Departures": 34
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "2 PM",
+   "Day": "Sat",
+   "Arrivals": 34,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "3 PM",
+   "Day": "Sat",
+   "Arrivals": 25,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "4 PM",
+   "Day": "Sat",
+   "Arrivals": 35,
+   "Departures": 28
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "5 PM",
+   "Day": "Sat",
+   "Arrivals": 34,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "6 PM",
+   "Day": "Sat",
+   "Arrivals": 34,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "7 PM",
+   "Day": "Sat",
+   "Arrivals": 30,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "8 PM",
+   "Day": "Sat",
+   "Arrivals": 25,
+   "Departures": 39
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "9 PM",
+   "Day": "Sat",
+   "Arrivals": 26,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "10 PM",
+   "Day": "Sat",
+   "Arrivals": 29,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 16 2019",
+   "Hours": "11 PM",
+   "Day": "Sat",
+   "Arrivals": 22,
+   "Departures": 17
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "8 AM",
+   "Day": "Sun",
+   "Arrivals": 16,
+   "Departures": 34
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "9 AM",
+   "Day": "Sun",
+   "Arrivals": 13,
+   "Departures": 30
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "10 AM",
+   "Day": "Sun",
+   "Arrivals": 18,
+   "Departures": 34
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "11 AM",
+   "Day": "Sun",
+   "Arrivals": 28,
+   "Departures": 22
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "12 PM",
+   "Day": "Sun",
+   "Arrivals": 25,
+   "Departures": 21
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "1 PM",
+   "Day": "Sun",
+   "Arrivals": 29,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "2 PM",
+   "Day": "Sun",
+   "Arrivals": 34,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "3 PM",
+   "Day": "Sun",
+   "Arrivals": 30,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "4 PM",
+   "Day": "Sun",
+   "Arrivals": 29,
+   "Departures": 30
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "5 PM",
+   "Day": "Sun",
+   "Arrivals": 37,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "6 PM",
+   "Day": "Sun",
+   "Arrivals": 41,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "7 PM",
+   "Day": "Sun",
+   "Arrivals": 31,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "8 PM",
+   "Day": "Sun",
+   "Arrivals": 32,
+   "Departures": 34
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "9 PM",
+   "Day": "Sun",
+   "Arrivals": 30,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "10 PM",
+   "Day": "Sun",
+   "Arrivals": 38,
+   "Departures": 18
+ },
+ {
+   "Date": "Mar 17 2019",
+   "Hours": "11 PM",
+   "Day": "Sun",
+   "Arrivals": 22,
+   "Departures": 16
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "8 AM",
+   "Day": "Mon",
+   "Arrivals": 16,
+   "Departures": 32
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "9 AM",
+   "Day": "Mon",
+   "Arrivals": 15,
+   "Departures": 30
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "10 AM",
+   "Day": "Mon",
+   "Arrivals": 14,
+   "Departures": 32
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "11 AM",
+   "Day": "Mon",
+   "Arrivals": 28,
+   "Departures": 18
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "12 PM",
+   "Day": "Mon",
+   "Arrivals": 25,
+   "Departures": 19
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "1 PM",
+   "Day": "Mon",
+   "Arrivals": 29,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "2 PM",
+   "Day": "Mon",
+   "Arrivals": 34,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "3 PM",
+   "Day": "Mon",
+   "Arrivals": 31,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "4 PM",
+   "Day": "Mon",
+   "Arrivals": 26,
+   "Departures": 28
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "5 PM",
+   "Day": "Mon",
+   "Arrivals": 39,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "6 PM",
+   "Day": "Mon",
+   "Arrivals": 36,
+   "Departures": 23
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "7 PM",
+   "Day": "Mon",
+   "Arrivals": 32,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "8 PM",
+   "Day": "Mon",
+   "Arrivals": 24,
+   "Departures": 31
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "9 PM",
+   "Day": "Mon",
+   "Arrivals": 23,
+   "Departures": 24
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "10 PM",
+   "Day": "Mon",
+   "Arrivals": 35,
+   "Departures": 16
+ },
+ {
+   "Date": "Mar 18 2019",
+   "Hours": "11 PM",
+   "Day": "Mon",
+   "Arrivals": 27,
+   "Departures": 14
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "8 AM",
+   "Day": "Tue",
+   "Arrivals": 17,
+   "Departures": 37
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "9 AM",
+   "Day": "Tue",
+   "Arrivals": 15,
+   "Departures": 34
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "10 AM",
+   "Day": "Tue",
+   "Arrivals": 16,
+   "Departures": 35
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "11 AM",
+   "Day": "Tue",
+   "Arrivals": 28,
+   "Departures": 18
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "12 PM",
+   "Day": "Tue",
+   "Arrivals": 27,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "1 PM",
+   "Day": "Tue",
+   "Arrivals": 32,
+   "Departures": 29
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "2 PM",
+   "Day": "Tue",
+   "Arrivals": 33,
+   "Departures": 28
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "3 PM",
+   "Day": "Tue",
+   "Arrivals": 28,
+   "Departures": 21
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "4 PM",
+   "Day": "Tue",
+   "Arrivals": 31,
+   "Departures": 26
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "5 PM",
+   "Day": "Tue",
+   "Arrivals": 36,
+   "Departures": 24
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "6 PM",
+   "Day": "Tue",
+   "Arrivals": 40,
+   "Departures": 25
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "7 PM",
+   "Day": "Tue",
+   "Arrivals": 36,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "8 PM",
+   "Day": "Tue",
+   "Arrivals": 26,
+   "Departures": 35
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "9 PM",
+   "Day": "Tue",
+   "Arrivals": 30,
+   "Departures": 27
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "10 PM",
+   "Day": "Tue",
+   "Arrivals": 36,
+   "Departures": 20
+ },
+ {
+   "Date": "Mar 19 2019",
+   "Hours": "11 PM",
+   "Day": "Tue",
+   "Arrivals": 26,
+   "Departures": 14
+ }
+]
